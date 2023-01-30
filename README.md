@@ -1,7 +1,7 @@
 # Dashboard_PostgreSQL
 Dashboard summarising Northwind Database
 
-# [Project: Dashboard using Northwind Database](https://github.com/spicedacademy/fenugreek-student-code/tree/karen/northwind)
+# [Project: Dashboard using Northwind Database](https://github.com/spicedacademy/fenugreek-student-code/tree/karen/dashboard/northwind)
 
 
 * Build a dashboard summarizing the Northwind Database (a sample database from Microsoft Access). 
